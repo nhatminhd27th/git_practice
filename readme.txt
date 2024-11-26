@@ -8,3 +8,4 @@ new line
 =======
 another new line
 >>>>>>> newbranch
+merge this
